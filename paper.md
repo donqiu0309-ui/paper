@@ -34,3 +34,7 @@ methodology section
 
 
 results sections
+
+
+figures section
+
