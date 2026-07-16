@@ -28,3 +28,6 @@ branch ex.2
 
 
 simualtion results
+
+
+methodology section

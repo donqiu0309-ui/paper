@@ -3,3 +3,9 @@ ref 2
 ref 3
 ref 4
 ref 5
+
+adding methodology section refs
+
+ref a
+ref b
+ref c
